@@ -1,14 +1,25 @@
 # Полезная информация из чата https://t.me/klavaorgwork
 
-# Наши клавиатуры
+## Наши клавиатуры
 
-* [Кладенец](https://github.com/ibnteo/kladenets)
+### Существующие
+* [Кладенец2](https://github.com/ibnteo/kladenets)
+   Клавиатура, построенная на одновременном наборе нескольких пятибитовых аккордов.
 * [CatBoard](https://github.com/ibnteo/catboard)
+   Первая отечественная эргоклавиатура.
 * [Секира](https://github.com/bouncepaw/sequira)
+   Клавиатура, смешивающая в себе аккордовые и обычные эргоклавы.
 * [Вакидзаси](https://github.com/bouncepaw/wakizashi)
+   Однорукая клавиатура с большим количеством аккордов.
 * [Jian](https://t.me/KgOfHedgehogs/12)
+   40% сплит, ориентированный на кириллицу.
 
-# Инструменты
+### Концепты
+* Буран
+* Кладенец23 (а также 1, 0.5, 24 и дюжинец)
+* Корд
+
+### Инструменты
 
 * [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) (KLE) - сайт для рисования раскладок клавиатур.
 * [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339) (MKLS) - программа для создания раскладок под операционной системой Windows.
@@ -21,7 +32,7 @@
   * Нагрузка на пальцы
   * Число последовательных нажатий одним пальцем
 
-# Данные для оптимизации раскладок
+### Данные для оптимизации раскладок
 
 * [Раскладка Диктор](https://t.me/klavaorgwork/26893).
 * [Ё-фицированный текст](https://t.me/klavaorgwork/4942) размером 200 кб.
