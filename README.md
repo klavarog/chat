@@ -4,8 +4,8 @@
 
 * [Кладенец](https://github.com/ibnteo/kladenets)
 * [CatBoard](https://github.com/ibnteo/catboard)
-* [Sequira](https://github.com/bouncepaw/sequira)
-* [Wakizashi](https://github.com/bouncepaw/wakizashi)
+* [Секира](https://github.com/bouncepaw/sequira)
+* [Вакидзаси](https://github.com/bouncepaw/wakizashi)
 * [Jian](https://t.me/KgOfHedgehogs/12)
 
 # Инструменты
