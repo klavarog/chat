@@ -20,6 +20,7 @@
 ### Инструменты
 
 * [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) (KLE) - сайт для рисования раскладок клавиатур.
+* [Keyboard Layout Manager](https://www.apponic.com/publisher/keyboard-layout-manager-25583/) — вносит изменения в ТЕКУЩУЮ раскладку на компьютере, причём, lite работает отлично без крека и регистрации (проверял давно, сейчас не знаю…).
 * [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339) (MSKLC) - программа для создания раскладок под операционной системой Windows.
 * [Keyman Desktop 11.0](https://keyman.com/desktop/) - программа для переназначения клавиш, обладает такими возможностями, как:
   * TODO — изучить!
