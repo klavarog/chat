@@ -21,7 +21,9 @@
 
 * [keyboard-layout-editor](http://www.keyboard-layout-editor.com/) (KLE) - сайт для рисования раскладок клавиатур.
 * [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339) (MSKLC) - программа для создания раскладок под операционной системой Windows.
-* [KeyMan](https://keyman.com/desktop/) - программа для переназначения клавиш, обладает такими возможностями, как:
+* [Keyman Desktop 11.0](https://keyman.com/desktop/) - программа для переназначения клавиш, обладает такими возможностями, как:
+  * TODO — изучить!
+* [KeyMan](https://steve-key.ucoz.ru/news/poslednjaja_versija_keyman_4_28_freeware/2010-12-06-3) - программа для переназначения клавиш, обладает такими возможностями, как:
   * Перехват нажатий клавиш на HID устройствах (USB клавиатуры, мыши, джойстики, пульты ДУ и даже UPS).
   * Управление медиа проигрывателями: WinAmp 2.9x/5.x, BSplayer, Light Alloy, Windows Media Player 9.x/10.x, foobar2000 + автоопределение текущего проигрывателя.
   * Использование любых клавиш, в том числе системных – Win+D, Alt+Tab, ect. (Исключением являются: Ctrl+Alt+Del и клавиша Tab без модификаторов).
