@@ -61,3 +61,6 @@
 ![](/img/meme1.jpg)
 
 ![](/img/meme2.jpg)
+
+![](/img/vwolka.jpg)
+Волька пишет на аккордеонумах.
