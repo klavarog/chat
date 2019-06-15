@@ -47,7 +47,7 @@
   * Чередование рук
   * Нагрузка на пальцы
   * Число последовательных нажатий одним пальцем
-
+* [Caster](https://github.com/dictation-toolbox/Caster) - is a collection of tools aimed at enabling programming and accessibility entirely by voice built upon the [Dragonfly](https://github.com/dictation-toolbox/dragonfly) API.
 ## Данные для оптимизации раскладок
 
 * [Раскладка Диктор](https://t.me/klavaorgwork/26893).
