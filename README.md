@@ -5,7 +5,7 @@
 ## Наши клавиатуры
 
 ### Существующие
-* **CatBoard** — первая отечественная эргоклавиатура. [Репо]((https://github.com/ibnteo/catboard), [лендинг](http://catboard.klava.org/).
+* **CatBoard** — первая отечественная эргоклавиатура. [Репо](https://github.com/ibnteo/catboard), [лендинг](http://catboard.klava.org/).
 * **kKeyb**
 * **Jian** — 40% сплит, ориентированный на кириллицу. [Пост](https://t.me/KgOfHedgehogs/12).
 * **Вакидзаси** — однорукая клавиатура с большим количеством аккордов. [Репо](https://github.com/bouncepaw/wakizashi), [статья](https://bouncepaw.github.io/wakizashi-ru).
