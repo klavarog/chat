@@ -6,7 +6,7 @@
 
 ### Существующие
 * **CatBoard** — первая отечественная эргоклавиатура. [Репо](https://github.com/ibnteo/catboard), [лендинг](http://catboard.klava.org/).
-* **kKeyb** [Раскладка](https://steve-key.ucoz.ru/news/raskladka_moego_koncepta/2019-03-17-80).
+* **kKeyb** &mdash; эргономичный 60% сплит, текущий вариант монолитный. [Раскладка](https://steve-key.ucoz.ru/news/raskladka_moego_koncepta/2019-03-17-80).
 * **Лучеклава** &mdash; похожа на лучи. [Пост](https://t.me/klavaorgwork/62685).
 * **Jian** — 40% сплит, ориентированный на кириллицу. [Пост](https://t.me/KgOfHedgehogs/12).
 * **Вакидзаси** — однорукая клавиатура с большим количеством аккордов. [Репо](https://github.com/bouncepaw/wakizashi), [статья](https://bouncepaw.github.io/wakizashi-ru).
