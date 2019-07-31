@@ -1,6 +1,7 @@
 # Полезная информация из чата https://t.me/klavaorgwork
 
 - [Манифест создателя раскладки](manifest.md)
+- [Клавиатурный тренажор Клаварог](https://klava.org/)
 
 ## Наши клавиатуры
 
@@ -25,6 +26,16 @@
 * Корд
 * Сюрикен
 * Шакрам &mdash; крутилка.
+
+## Ресурсы
+
+### Наши сайты
+
+* [Блог Вольки](http://ibnteo.klava.org/)
+* [Сайт Steve Key](https://steve-key.ucoz.ru/)
+* [Уютная тумбочка](https://bouncepaw.github.io/)
+* [Блог Оптозоракса](https://optozorax.github.io/)
+
 
 ## Термины
 
