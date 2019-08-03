@@ -34,8 +34,8 @@
 * [Блог Вольки](http://ibnteo.klava.org/)
 * [Сайт Steve Key](https://steve-key.ucoz.ru/)
 * [Уютная тумбочка (bouncepaw)](https://bouncepaw.github.io/)
-* [Блог optozorax'а](https://optozorax.github.io/)
-
+* [Блог optozorax'а](https://optozorax.github.io/), [акк на клавогонках](http://klavogonki.ru/u/#/517589/).
+* [Аккаунт Kanazei на клавогонках](http://klavogonki.ru/u/#/439088/)
 
 ## Термины
 
