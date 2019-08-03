@@ -33,8 +33,8 @@
 
 * [Блог Вольки](http://ibnteo.klava.org/)
 * [Сайт Steve Key](https://steve-key.ucoz.ru/)
-* [Уютная тумбочка](https://bouncepaw.github.io/)
-* [Блог Оптозоракса](https://optozorax.github.io/)
+* [Уютная тумбочка (bouncepaw)](https://bouncepaw.github.io/)
+* [Блог optozorax'а](https://optozorax.github.io/)
 
 
 ## Термины
@@ -129,6 +129,8 @@
   * [Важное замечание.](https://t.me/klavaorgwork/69825)
 * [Нейросеть предсказывает что видит человек по сканам активности мозга.](https://habr.com/en/post/403759/)
 * [Конференция по NeuraLink.](https://youtu.be/r-vbh3t7WVI)
+* Не совсем о нейроинтерфейсах, но машинное обучение для печати на произвольной клавиатуре: [n+1](https://nplus1.ru/news/2019/08/03/invisible-keyboard).
+* [Видео на русском об NeuraLink.](https://youtu.be/jyg-TCWtt80)
 
 ## Локальные мемы
 
