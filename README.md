@@ -108,6 +108,7 @@
   * Число последовательных нажатий одним пальцем
 * [Caster](https://github.com/dictation-toolbox/Caster) — is a collection of tools aimed at enabling programming and accessibility entirely by voice built upon the [Dragonfly](https://github.com/dictation-toolbox/dragonfly) API.
 * [Enhanced Keyboard](https://github.com/klavarog/enhanced-keyboard) — программа для переназначения клавиш. Главным отличием данной программы от других является явная возможность создания слоя.
+* [keyla](https://code.google.com/archive/p/keyla/wikis/ru_Main.wiki) — программа для назначения клавиш переключения раскладок под Windows. Назначает любые клавиши и их сочетания для циклического или «жёсткого» переключения.
 
 ## Данные для оптимизации раскладок
 
