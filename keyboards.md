@@ -1,5 +1,7 @@
 # Немного о здешних клавиатурах
 
+Представленные здесь клавиатуры уже полностью работают.
+
 ## Кошкоклава
 
 Была создана в 2012. Есть статья на хабре: [https://habr.com/post/185500/](https://habr.com/post/185500/).
@@ -26,6 +28,7 @@
 * Намного меньше клавиш.
 
 `Github:` [](https://github.com/ibnteo/kladenets)
+`Описание на русском:` [https://github.com/ibnteo/kladenets/blob/master/README-RU.md](https://github.com/ibnteo/kladenets/blob/master/README-RU.md)
 
 ![](img/kladenets.jpg)
 
