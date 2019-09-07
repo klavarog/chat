@@ -3,23 +3,29 @@
 Представленные здесь клавиатуры уже полностью работают.
 
 ## Кошкоклава
-
+<table><tr><td>
 Была создана в 2012. Есть статья на хабре: [https://habr.com/post/185500/](https://habr.com/post/185500/).
 
 Впоследствии стало ясно, что кнопок многовато, поэтому пришли к концепции кошки без некоторых клавиш, а затем к Коденецу.
 
 `Github:` [https://github.com/ibnteo/catboardx](https://github.com/ibnteo/catboard)
 
-![](img/catboard.jpg)
+</td><td>
+<img src="img/catboard.jpg">
+</td></tr></table>
 
 ## Коденец
 
+<table><tr><td>
 Коденец - переходная форма между кошкоклавой и кладенцом. Здесь используются как `аккорды`, так и обычные нажатия клавиш.
 
-![](img/codenets.jgp)
+</td><td>
+<img src="img/kodenets.jpg">
+</td></tr></table>
 
 ## Кладенец
 
+<table><tr><td>
 Клавиатура, построенная полностью на концепции аккордов. `Аккорд` — одновременное нажатие нескольких клавиш, создающее символ, слог или даже слово. Довольно революционное решение. Вдохновлён steno.
 
 Главные фичи:
@@ -29,14 +35,18 @@
 
 `Github:` [](https://github.com/ibnteo/kladenets)
 `Описание на русском:` [https://github.com/ibnteo/kladenets/blob/master/README-RU.md](https://github.com/ibnteo/kladenets/blob/master/README-RU.md)
-
-![](img/kladenets.jpg)
+</td><td>
+<img src="img/kladenets.jpg">
+</td></tr></table>
 
 ## Приклад
 
+<table><tr><td>
 Клавиатура с 10 кнопками на основе Кладенца, соданная для набора на телефоне, планшете.
 
-![](img/priklad.jpg)
+</td><td>
+<img src="img/priklad.jpg">
+</td></tr></table>
 
 # Хочу!
 
