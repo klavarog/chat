@@ -186,6 +186,14 @@
 * Не совсем о нейроинтерфейсах, но машинное обучение для печати на произвольной клавиатуре: [n+1](https://nplus1.ru/news/2019/08/03/invisible-keyboard).
 * [Видео на русском об NeuraLink.](https://youtu.be/jyg-TCWtt80)
 
+## Идеи
+
+* [Каждая клавиша - функция. Идея паттерна для программируемых клавиатур](https://gist.github.com/optozorax/770d188b7a4ca22b2118092aa82782c7)
+* [Использование `std::funciton` для QMK ](https://gist.github.com/optozorax/386d97aff4bd634a77727538dd400263)
+* [Множество буферов обмена](https://t.me/klavaorgwork/4615)
+* [Альфа-слой](https://t.me/klavaorgwork/91791), [и ещё идея](https://t.me/klavaorgwork/91899)
+* [Программа для сравнения перекатов](https://t.me/klavaorgwork/91319)
+
 ## Локальные мемы
 
 ### [Бегущий по клавиатуре](https://t.me/klavaorgwork/51070)
