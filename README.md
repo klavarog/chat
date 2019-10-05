@@ -241,9 +241,9 @@
 
 ![](/img/meme3.png)
 
-![](/imp/how_to_type.png)
+![](/img/how_to_type.png)
 
-![](/imp/scheisseboard.png)
+![](/img/scheisseboard.png)
 
 ## История названий чата
 
