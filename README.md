@@ -16,7 +16,7 @@
 * Steve Key
 * bouncepaw
 * O1af
-* Kanazei
+* [Kanazei](http://klavogonki.ru/u/#/439088/)
 
 ## Наши клавиатуры
 
