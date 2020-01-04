@@ -15,7 +15,7 @@
 * [optozorax](https://github.com/optozorax/keyboard_layout)
 * [Steve Key](https://kle.klava.org/#/gists/f3de7788f1010cf95a31a09d99e1f0ca)
 * bouncepaw
-* O1af
+* [O1af](http://www.keyboard-layout-editor.com/#/gists/56e5446e6d61a66544a0dc37f90b7bac)
 * [Kanazei](http://klavogonki.ru/u/#/439088/)
 
 ## Наши клавиатуры
