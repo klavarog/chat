@@ -13,7 +13,7 @@
 Поэтому в этом разделе будут представлены наши раскладки, чтобы ими можно было вдохновляться для создания своей:
 
 * [optozorax](https://github.com/optozorax/keyboard_layout)
-* Steve Key
+* [Steve Key](https://kle.klava.org/#/gists/f3de7788f1010cf95a31a09d99e1f0ca)
 * bouncepaw
 * O1af
 * [Kanazei](http://klavogonki.ru/u/#/439088/)
