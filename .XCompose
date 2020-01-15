@@ -52,6 +52,11 @@
 <Multi_key> <p> <r> <o> <d>:                      "∏" U220F # N-ARY PRODUCT
 <Multi_key> <v> <o> <i> <d>:                      "∅" # EMPTY SET
 <Multi_key> <i> <n> <f>:                          "∞" # INFINITY
+<Multi_key> <d> <i> <v>:                          "÷" # DIVISON
+<Multi_key> <t> <i> <m>:                          "×" # TIMES
+<Multi_key> <t> <e> <e>:                          "⊤" # VERUM
+<Multi_key> <e> <e> <t>:                          "⊥" # ABSURDUM
+
 
 <Multi_key> <exclam> <exclam>:                    "¬" # LOGICAL NOT
 <Multi_key> <ampersand> <ampersand>:              "∧" # LOGICAL AND
@@ -61,11 +66,9 @@
 <Multi_key> <v> <3>:                              "∛" U221B # CUBE ROOT
 <Multi_key> <v> <4>:                              "∜" U221C # FOURTH ROOT
 
-# Кванторы получены повторением буквы. Решил использовать строчные, чтобы
-# не жать шифт лишний раз.
-<Multi_key> <e> <e>:                              "∃" # THERE EXISTS
-<Multi_key> <exclam> <e> <e>:                     "∄" # THERE DOES NOT EXIST
-<Multi_key> <a> <a>:                              "∀" # FOR ALL
+<Multi_key> <E> <E>:                              "∃" # THERE EXISTS
+<Multi_key> <exclam> <E> <E>:                     "∄" # THERE DOES NOT EXIST
+<Multi_key> <A> <A>:                              "∀" # FOR ALL
 
 # Операторы принадлежности начинаются с пробела.
 <Multi_key> <space> <plus>:                       "∪" # UNION
