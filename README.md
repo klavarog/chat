@@ -15,7 +15,7 @@
 Поэтому в этом разделе будут представлены некоторые наши раскладки, чтобы ими можно было вдохновляться для создания своей:
 
 * [optozorax](https://github.com/optozorax/keyboard_layout)
-* [Steve Key](https://kle.klava.org/#/gists/f3de7788f1010cf95a31a09d99e1f0ca)
+* [Steve Key](https://github.com/Steve-Key/QMK_kKeyb19/blob/master/Layout/kKeyb-v2k20-by-Steve-Key.kbd.json) — этот файл вставить в KLE.
 * bouncepaw: [Секира](https://kle.klava.org/#/gists/b6f01f71b74998089fe26e20b3ab79e1) → [Сагарис](https://kle.klava.org/#/gists/5722ae3ff22ae2ea6685f39b8f2a472f)
 * [O1af](http://www.keyboard-layout-editor.com/#/gists/56e5446e6d61a66544a0dc37f90b7bac)
 * [Kanazei](http://klavogonki.ru/u/#/439088/)
