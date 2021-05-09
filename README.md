@@ -34,16 +34,6 @@
 * Мечелом. Полиаккордовая, полибуквенная. Включает в себя кнопки «Квази» и «Астра».
 * [Идеальная клавиатура optozorax'а.](https://t.me/klavaorgwork/12906)
 
-## Ресурсы
-
-### Наши сайты
-
-* [Блог Вольки](http://ibnteo.klava.org/)
-* [Сайт Steve Key](https://steve-key.ucoz.ru/)
-* [Уютная тумбочка (bouncepaw)](https://bouncepaw.github.io/), [канал в Телеграме](http://t.me/bpblog).
-* [Блог optozorax'а](https://optozorax.github.io/), [акк на клавогонках](http://klavogonki.ru/u/#/517589/).
-* [Аккаунт Kanazei на клавогонках](http://klavogonki.ru/u/#/439088/)
-
 ## Термины
 
 * `Препинак` &mdash; знак препинания.
