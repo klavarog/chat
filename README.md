@@ -6,7 +6,6 @@
 
 ----
 
-* [Идеальная клавиатура optozorax'а.](https://t.me/klavaorgwork/12906)
 
 ## Термины
 
@@ -22,8 +21,6 @@
 
 ## Инструменты
 
-* [Возможности QMK](https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md) — все фичи прошивки QMK на русском языке.
-* [QMK bonus](https://github.com/klavarog/qmk_bonus) — разрабатываемые под брендом klavarog дополнения для QMK.
 * [typings.gg](https://typings.gg/) — сайт проверки скорости печати с [цветовыми темами](https://www.reddit.com/r/MechanicalKeyboards/comments/c15vu3/typingsgg_a_nice_typing_test_website/).
 * ⭐️[keyboard-layout-editor](http://www.keyboard-layout-editor.com/) (KLE) — сайт для рисования раскладок клавиатур.
 * ⭐️[kle-heat](https://github.com/KGOH/kle-heat) — программа для построения тепловой карты (heatmap) нажатий на основе клавиатуры для сайта [keyboard-layout-editor.com](keyboard-layout-editor.com).
